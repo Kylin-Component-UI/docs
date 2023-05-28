@@ -1,3 +1,3 @@
-import { Button } from '../../../../Kylin-ui/dist/index.es.js';
+import { Button } from '../../dist/index.es.js';
 
 export default Button;
