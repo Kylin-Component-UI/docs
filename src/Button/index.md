@@ -89,7 +89,7 @@ export default () => {
 };
 ```
 
-## beforeIcon & afterIcon
+## Icon
 
 ```jsx
 import { Button } from 'kylin-ui';
